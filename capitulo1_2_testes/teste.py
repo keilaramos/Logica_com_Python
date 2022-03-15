@@ -1,0 +1,1 @@
+print("você consegue tudo o que quiser, basta acreditar primeiro!")

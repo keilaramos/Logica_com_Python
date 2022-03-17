@@ -1,4 +1,5 @@
-# escreva uma expressão para determinar se uma pessoa deve ou não pagar imposto. Considerando que paga imposto pessoas que recebem mais que R$ 1.900,00.
+# escreva uma expressão para determinar se uma pessoa deve ou não pagar imposto.
+# Considerando que paga imposto pessoas que recebem mais que R$ 1.900,00.
 
 salario = int(input("digite o salário: "))
 print(salario)

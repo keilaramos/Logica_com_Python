@@ -26,7 +26,7 @@ tipo_resultado = type(resultado)
 # operadores relacionais
 # == igualdade
 # > maior que 
-# < menir que 
+# < menor que 
 # != diferente
 # >= maior ou igual
 # <= menor ou igual
@@ -48,7 +48,7 @@ tipo_resultado = type(resultado)
 # o tamanho de uma string pode ser obtido usando a função len().
 # Retorna o Nº de caracteres na string.
 
-c = "aluno"
+c = "123"
 tipo_c = type(c)
 d = "14"
 tipo_d = type(d)
@@ -64,15 +64,15 @@ print(c + d)
 # - composição (%d, %s, %f) -marcadores de posições.
 nome = "João"
 idade = 22
-grana = 51.34
+grana = 51.36
 print("%s tem %d anos e R$%f no bolso" % (nome, idade, grana))
 
 # - método format em vez de %
 print("{} tem {} anos e R${} no bolso" .format(nome, idade, grana))
-print("{:12} tem {:03} anos e R${:5.1f} no bolso" .format(nome, idade, grana))
-print(f"{nome} tem {idade} anos e R${grana:5.1f} no bolso")
+print("{:12} tem {:03} anos e R${:5.2f} no bolso" .format(nome, idade, grana))
+print(f"{nome} tem {idade} anos e R${grana:5.2f} no bolso")
 
 # - fatiamento
-print(nome[0:2])
+print(nome[0:3])
 
 

@@ -1,6 +1,6 @@
 # Exercício 2.3 - Exibindo variáveis tipo string concatenadas.
-nome = "Keila"
-sobrenome = "Ramos"
+nome = "12"
+sobrenome = "14"
 print(nome + " " + sobrenome)
 
 # Outra forma de exibir as variáveis sem concatenação

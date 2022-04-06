@@ -1,7 +1,7 @@
 # ***Curiosidades sobre a linguagem PYTHON***
 # Python foi criado no final dos anos oitenta(1989) por Guido van Rossum no Centro de Matemática 
 # e Tecnológia da Informação na Holanda, como sucessor da linguagem de programação ABC, 
-# capaz de lidar com exceções e interagir com o sistema operacionaln Amoeba.
+# capaz de lidar com exceções e interagir com o sistema operacional Amoeba.
 # O nome da língua vem do gosto de seu criador pelos humoristas britânicos Monty Python.
 
 # Python é uma linguagem de programação interpretada cuja filosofia enfatiza uma sintaxe 

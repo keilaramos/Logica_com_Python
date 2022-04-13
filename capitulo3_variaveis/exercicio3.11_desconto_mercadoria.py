@@ -10,5 +10,5 @@ desconto = preco_mercadoria * percentual_desconto / 100
 preco_pagar = preco_mercadoria - desconto
 
 #Exibição para o usuário
-print(f"O valor do desconto será: R${desconto:5.2f}")
-print(f"O preço a pagar será: R${preco_pagar:5.2f}")
+print(f"O valor do desconto será: R${desconto:6.2f}")
+print(f"O preço a pagar será: R${preco_pagar:.2f}")

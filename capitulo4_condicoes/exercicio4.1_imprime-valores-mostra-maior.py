@@ -1,8 +1,8 @@
 #Programa 4.1 - Lê dois valores e mostra qual é o maior
-#No Python a estrutura de decisão é o if
+# No Python a estrutura de decisão é o if
 
 #Entrada dos dados
-a = int(input("Digite a o primeiro valor: "))
+a = int(input("Digite o primeiro valor: "))
 b = int(input("Digite o segundo valor: "))
 
 #Condicional na exibição para mostrar o maior

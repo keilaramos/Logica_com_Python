@@ -2,3 +2,6 @@
     "python.linting.flake8Enabled":true,
     "python.linting.enabled":false
 }
+
+Site para todas as resoluções.
+https://python.nilo.pro.br/exercicios3/

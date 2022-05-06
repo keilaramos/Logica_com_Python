@@ -1,4 +1,4 @@
-# Exercício 05-09: Divisão por subtrações sucessivas
+# Exercício 5.9: Divisão por subtrações sucessivas
 # Escreva um programa que leia dois números. Imprima a divisão inteira do primeiro pelo segundo, assim como o 
 # resto da divisão. Utilize apenas os operadores de soma e subtração para calcular o resultado. Lembre-se de que 
 # podemos entender o quociente da divisão de dois números como a quantidade de vezes que podemos retirar o divisor do

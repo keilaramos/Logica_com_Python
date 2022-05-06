@@ -1,4 +1,4 @@
-# Exercício 5.22 Menu de operações matemáticas
+# Exercício 5.22 Menu de operações matemáticas 
 # Escreva um programa que exiba uma lista de opções (menu): adição, subtração, divisão, multiplicação e sair.
 # Imprima a tabuada da operação escolhida.
 # Repita até que a opção saída seja escolhida.
@@ -23,7 +23,7 @@ Menu
         x = 1
         while x <= 10:
             if opção == 1:
-                print(f"{n} + {x} = {n + x}")
+                print(n," + ",x," = ", (n + x))
             elif opção == 2:
                 print(f"{n} - {x} = {n - x}")
             elif opção == 3:
@@ -31,6 +31,7 @@ Menu
             elif opção == 4:
                 print(f"{n} x {x} = {n * x}")
             x += 1 
+        break        
             
     else:
         print("Opção inválida!")

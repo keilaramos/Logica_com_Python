@@ -7,8 +7,8 @@
 p = int(input("Primeiro número: "))
 s = int(input("Segundo número: "))
 x = 1
-r = 0
+resultado = 0
 while x <= s:
-    r = r + p
+    resultado = resultado + p # 0+5 / 5+5/10+5
     x = x + 1
-print(f"{p} x {s} = {r}")
+print(f"{p} x {s} = {resultado}")

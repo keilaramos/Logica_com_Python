@@ -1,4 +1,4 @@
-# Exercício 6.5 - Similação de duas filas de banco 
+# Exercício 6.6 - Similação de duas filas de banco 
 ultimo1 = 14
 ultimo2 = 12
 fila1 = list(range(1, ultimo1 + 1))

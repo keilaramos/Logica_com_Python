@@ -76,3 +76,5 @@ print(f"{nome} tem {idade} anos e R${grana:5.2f} no bolso")
 print(nome[0:3])
 
 
+j = int(input("Digite um número: "))
+k = int(input("Digite um número a pesquisar:"))

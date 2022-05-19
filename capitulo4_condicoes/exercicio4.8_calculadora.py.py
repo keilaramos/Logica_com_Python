@@ -21,5 +21,5 @@ elif operacao == 3:
 elif operacao == 4:
     print(f"O resultado é: {divisao:6.2f}")
 else:
-    print(f"Comando inexistente!")
+    print("Comando inexistente!")
 

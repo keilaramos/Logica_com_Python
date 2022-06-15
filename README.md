@@ -1,2 +1,2 @@
 # Logica_com_Python
-Resolução dos exercícios do livro de introdução a programação com python.
+Algorítimos, estruturas básicas  e lógicas de programação baseadas nos exercícios do livro Introdução a programação com Python. Autor: Nilo Ney Coutinho.

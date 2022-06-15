@@ -7,4 +7,4 @@ def fatorial(n):
         fat =  n * fatorial(n - 1)
         print(f"Fatorial de {n} = {fat}")
     return fat
-fatorial(10)
+fatorial(4)
